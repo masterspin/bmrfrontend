@@ -78,7 +78,7 @@
     </header>
     <!-- End Header -->
 
-    <!-- ======= Hero Section ======= -->
+    <!-- ======= About Section ======= -->
     <section id="hero" style="margin-top: -7%;">
       <div class="hero-container" data-aos="fade-in">
         <h1 style="margin-bottom: 1%;">What is BMR?</h1>
@@ -90,13 +90,13 @@
       </div>
       </div>
     </section>
-    <!-- End Hero Section -->
+    <!-- End About Section -->
 
     <main id="main">
-      <!-- ======= About Us Section ======= -->
+      <!-- ======= Calculator Section ======= -->
           <div id= "about-us" class="container aos-init aos-animate" data-aos="fade-up"  style="margin-top: -15%;">
             <div class="row justify-content-center aos-init aos-animate">
-              <div class="col-lg-5 col-md-8">
+              <div class="col-lg-5 col-md-8" data-aos="fade-in">
                     <div class="form">
                           <h2 class="title">BMR Calculator</h2>
                           <div class="input-container ic1">
@@ -111,13 +111,17 @@
                           <div class="input-container ic1">
                             <input id="height" class="input" type="text" placeholder="Height" />
                           </div>
-                          <button type="text" class="submit" onclick="handleSubmit()">Submit</button>
+                          <button type="text" class="submit" onclick="handleSubmit()">Submit</button>   
                         </div>
+                        <div class="col-md-12">
+                          <h1 id = "bmrresult" class="result" style="margin-top: 100px;font-size:xx-large;"></h1>
+                        </div>                        
                     </div>
+                    
               </div>
             </div>
           </div>
-      <!-- End About Us Section -->
+      <!-- End Calculator Section -->
 
       <!-- ======= Testimonials Section ======= -->
       <section id="testimonials" class="padd-section text-center">
@@ -176,7 +180,7 @@
                         <h4>Narayana T.<span>Fitness Fanatic</span></h4>
                         <img
                           class="testiimg"
-                          src="https://media.discordapp.net/attachments/817432681633153029/977624202565812264/unknown.png?width=628&height=701"
+                          src="https://media.discordapp.net/attachments/817432681633153029/977974215552688128/unknown.png"
                         />
                       </div>
                     </div>
@@ -195,6 +199,21 @@
                         />
                       </div>
                     </div>
+
+                    <div class="carousel-item">
+                      <div class="top-top">
+                        <h2>User Testimonials</h2>
+                        <p>
+                          I like getting gains and this calculator helps a lot!
+                        </p>
+                        <h4>Kevin W.<span>Big Man</span></h4>
+                        <img
+                          class="testiimg"
+                          src="https://media.discordapp.net/attachments/817432681633153029/977985387035238510/20220522_132415.jpg?width=535&height=701"
+                        />
+                      </div>
+                    </div>
+
                   </div>
 
                   <div class="btm-btm">
@@ -216,6 +235,12 @@
                         data-bs-target="#carousel-example-generic"
                         data-bs-slide-to="3"
                       ></li>
+
+                      <li
+                        data-bs-target="#carousel-example-generic"
+                        data-bs-slide-to="4"
+                      ></li>
+
                     </ul>
                   </div>
                 </div>
