@@ -1,6 +1,6 @@
 ![bmrreadmev2](https://user-images.githubusercontent.com/45522785/169710659-3a54645d-a963-4852-8a75-3663739fbdd6.png)
 
-<b><h3 align="center">myBMR</h3></b>
+<b><h1 align="center" style = "color:green;">myBMR</h1></b>
 
 **Description**
 
