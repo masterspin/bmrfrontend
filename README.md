@@ -1,6 +1,6 @@
 ![bmrreadmev2](https://user-images.githubusercontent.com/45522785/169710659-3a54645d-a963-4852-8a75-3663739fbdd6.png)
 
-<b><h1 align="center" style = "color:green;">myBMR</h1></b>
+<h1 align="center" style = "color:green;">myBMR</h1>
 
 <h2>Description</h2>
 <p>Basal metabolic rate (BMR) is an estimate of the number of calories a person burns in a given day. It is a vital statistic which allows individuals to design a healthier, individualized diets and lifestyles. Given the growing obesity epidemic and the insufficient education on health, our BMR calculator is a critical tool in promoting education and awareness.</p>
@@ -32,7 +32,7 @@
 
 
 <h2>Authors & Acknowledgment</h2>
-<p>Created by Anish Reddy, Rishith Seelam, <a href = "https://www.linkedin.com/in/ritijjutur/">Ritij Jutur</a>, <a href = "https://www.linkedin.com/in/olafdsouza/">Olaf Dsouza</a></p>
+<p>Created by Anish Reddy, Rishith Seelam, <a href = "https://www.linkedin.com/in/ritijjutur/" target="_blank" >Ritij Jutur</a>, <a href = "https://www.linkedin.com/in/olafdsouza/" target="_blank" >Olaf Dsouza</a></p>
 
 
 <h2>Project Status</h2>
