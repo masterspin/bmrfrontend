@@ -1,14 +1,16 @@
 ![bmrreadmev2](https://user-images.githubusercontent.com/45522785/169710659-3a54645d-a963-4852-8a75-3663739fbdd6.png)
 
-**myBMR**
+<b><h3 align="center">myBMR</h3></b>
 
 **Description**
 
 Basal metabolic rate (BMR) is an estimate of the number of calories a person burns in a given day. It is a vital statistic which allows individuals to design a healthier, individualized diets and lifestyles. Given the growing obesity epidemic and the insufficient education on health, our BMR calculator is a critical tool in promoting education and awareness.
 
+
 **Installation**
 
 No installation is needed to run the calculator. Simply, click the link below hosted by Github pages and Google Cloud Platform.
+
 
 **Languages & Tools**
 
@@ -22,12 +24,16 @@ No installation is needed to run the calculator. Simply, click the link below ho
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 **Usage**
 
 As our testimonials show, the calculator is used by a wide demographic of users.
 
+
 **Contributing**
+
 Currently, we are not accepting open source contributions.
+
 
 **Authors & Acknowledgment**
 
