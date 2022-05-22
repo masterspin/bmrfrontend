@@ -2,17 +2,15 @@
 
 <b><h1 align="center" style = "color:green;">myBMR</h1></b>
 
-<h2>**Description**</h2>
-
-Basal metabolic rate (BMR) is an estimate of the number of calories a person burns in a given day. It is a vital statistic which allows individuals to design a healthier, individualized diets and lifestyles. Given the growing obesity epidemic and the insufficient education on health, our BMR calculator is a critical tool in promoting education and awareness.
-
-
-<h2>**Installation**</h2>
-
-No installation is needed to run the calculator. Simply, click the link below hosted by Github pages and Google Cloud Platform.
+<h2>Description</h2>
+<p>Basal metabolic rate (BMR) is an estimate of the number of calories a person burns in a given day. It is a vital statistic which allows individuals to design a healthier, individualized diets and lifestyles. Given the growing obesity epidemic and the insufficient education on health, our BMR calculator is a critical tool in promoting education and awareness.</p>
 
 
-<h2>**Languages & Tools**</h2>
+<h2>Installation</h2>
+<p>No installation is needed to run the calculator. Simply, click the link below hosted by Github pages and Google Cloud Platform.</p>
+
+
+<h2>Languages & Tools</h2>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -25,23 +23,17 @@ No installation is needed to run the calculator. Simply, click the link below ho
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<h2>**Usage**</h2>
-
-As our testimonials show, the calculator is used by a wide demographic of users.
-
-
-<h2>**Contributing**</h2>
-
-Currently, we are not accepting open source contributions.
+<h2>Usage</h2>
+<p>As our testimonials show, the calculator is used by a wide demographic of users.</p>
 
 
-<h2>**Authors & Acknowledgment**</h2>
-
-Created by Anish Reddy, Rishith Seelam, Ritij Jutur, Olaf Dsouza
-https://www.linkedin.com/in/ritijjutur/
-https://www.linkedin.com/in/olafdsouza/
+<h2>Contributing</h2>
+<p>Currently, we are not accepting open source contributions.</p>
 
 
-<h2>**Project status**</h2>
+<h2>Authors & Acknowledgment</h2>
+<p>Created by Anish Reddy, Rishith Seelam, <a href = "https://www.linkedin.com/in/ritijjutur/">Ritij Jutur</a>, <a href = "https://www.linkedin.com/in/olafdsouza/">Olaf Dsouza</a></p>
 
-This project was created for the NHACKS VII Hackathon
+
+<h2>Project Status</h2>
+<p>This project was created for the NHACKS VII Hackathon</p>
